@@ -1,0 +1,16 @@
+{
+  "name": "awesome-success-vote-trump",
+  "version": "1.0.0",
+  "description": "learn how to shell script with node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "your lovely selves",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "trump-cat": "cat.js",
+    "trump-ls": "ls.js",
+    "trump-grep": "grep.js"
+  }
+}
